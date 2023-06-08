@@ -7,9 +7,9 @@ Currently Occupation : Computer Science Student at University of Padua.
 <table>
         <tr>
             <th></th>
-            <th>Competent</th>
+            <th>Beginner+</th>
+            <th>Intermediate</th>
             <th>Proficient</th>
-            <th>Expert</th>
         </tr>
         <tr>
           <th>Programming Languages</th>
