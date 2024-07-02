@@ -30,6 +30,8 @@ Currently Occupation : Computer Science Student at University of Padua.
             <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a>
           </td>
           <td>
+                <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" alt="flutter" width="40" height="40"/> </a>
+                <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="flutter" width="40" height="40"/> </a>
           </td>
           <td>
             <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
